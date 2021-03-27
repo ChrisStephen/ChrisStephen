@@ -1,7 +1,5 @@
 - Hi, I’m @ChrisStephen
-- I’m interested in GNC systems
 - I’m currently learning computer engineering at Purdue University
-- I’m looking to collaborate on aerospace software
 - How to reach me christopher.stephen02@gmail.com
 
 <!---
