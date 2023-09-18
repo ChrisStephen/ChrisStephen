@@ -1,5 +1,5 @@
 - Hi, I’m @ChrisStephen
-- I’m currently learning computer engineering at Purdue University
+- I’m currently working as a computer engineering at Pratt & Whitney.
 - How to reach me christopher.stephen02@gmail.com
 
 <!---
